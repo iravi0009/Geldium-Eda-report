@@ -50,12 +50,8 @@ The dataset used in this project is focused on predicting **loan delinquency**, 
 
 ### 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/EDA-Report.git
-   cd EDA-Report
    ```
-2. Open the notebook using Jupyter:
+1. Open the notebook using Jupyter:
    ```bash
    jupyter notebook EDA_Report.ipynb
    ```
